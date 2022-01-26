@@ -1,0 +1,7 @@
+School
+- name: GHPS
+  principal: Mrs. Gurpreet Singh
+  Students:
+  - rollno: 12
+    name: Arshdeep Singh
+    marks: 88

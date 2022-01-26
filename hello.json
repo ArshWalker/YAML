@@ -1,0 +1,8 @@
+{
+  "cities": ["new delhi", "mumbai", "gujrat"],
+
+  "city": ["new delhi", "mumbai"],
+
+  "mango": "yellow fruit",
+  "age": 56
+}

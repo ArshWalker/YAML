@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<School name="GHPS" principal="Mrs. Gurpreet Singh">
+     <Students>
+          <Student>
+               <rollno>12</rollno>
+               <name>Arshdeep Singh</name>
+               <marks>88</marks>
+          </Student>
+     </Students>
+</School>
